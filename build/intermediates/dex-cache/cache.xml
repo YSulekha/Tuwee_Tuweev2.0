@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_08dc2a56cf3d51091a1c776d045f32300dadcd8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4c72b7305d9c42d7729d66694dc984f69896a844">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-22.2.0_7c286af0c14e775e3365e2beabcba61454134ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/.gradle/caches/modules-2/files-2.1/com.google.android.apps.muzei/muzei-api/2.0/ea86be2a201e6ad86dacffe774dbc6d89fcb0c92/muzei-api-2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ea86be2a201e6ad86dacffe774dbc6d89fcb0c92">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/pre-dexed/debug/muzei-api-2.0_cf4d3093455740c80f6f07873f802437733acca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_f6d5b2363962137d18535f144808605fbddc13e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_b95fc2cbdb05b7c0bcbfbff64f3f0530651fc833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-7.5.0_8351a7ff8e06527f6d70d80db34e5064df564403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_fcb88ff5cd502eb630f09a63b71dbde45f793977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_9b7e13298d8d5c2e32444036461c1402e0566e5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_8fc37eb3fc0efe75cdd005e3416d7bebaf958e6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_8199c2e1aace0d7e8b15478af921152add26d2df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.5.0_23d325e2808fafa05c9f4d3ba436fe6a377abeff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.5.0_3864c79ef7ba0ac144435ca473ed4b1fe425c25b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.6.1_e1e568e98acd79869047f3709993344a7abb7197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_0241109b6418d240c9d071a8e972362c7bff39ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.2.0_c42f034dc528e95d196d28e00e9961ade3867181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_3a2011bcc904c922f6fceb5d137f53358c72885a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/pre-dexed/debug/glide-3.5.2_fc93d3cca343cd846a9da7ee611db70ac7f493bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.2.0_87b35fdb52e28181048c5539b8ecd93060867c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_fa0d8b75c47976d59fbacbdbfc77467adf5ad9e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/pre-dexed/debug/com.android.support-design-22.2.0_109368a2eafee91016bf15170eaf633730ad7d85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3202db513a724413357b6189c481d88004a97b79">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/pre-dexed/debug/com.google.android.support-wearable-2.0.0-alpha3_89465318e6853a1b2909ff40a20df2afa1ccc949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.5.0_3036803c8a8e96f4a9f3a7d43f7eb3afd6ead721.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/aharyadi/Documents/AndroidWS/Nanodegree/SunshineFace/wearable/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_7173f8a535673cb7d379ad31e00404da5f85a65d.jar" />
+    </item>
+
+</items>
